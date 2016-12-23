@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organizationType xmlns="http://enterprisecloud.ais.co.th/bot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Company dot com Limited" orderType="TRIAL" caNumber="CA0000000123" shortName="COM" xsi:schemaLocation="http://enterprisecloud.ais.co.th/bot/bot.xsd">
+    <user fullName="John Doe" email="john.doe@company.com" phone="0900000001"/>
+    <vm nonMobileNumber="9000000002" osImageName="CENTOS7" noOfCpus="2" coresPerSocket="2" memorySize="4" storageSize="200"/>
+</organizationType>
